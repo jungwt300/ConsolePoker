@@ -1,2 +1,7 @@
-﻿  DeckofCardtest.cpp
+﻿  Card.cpp
+  Dealer.cpp
+  DeckofCardtest.cpp
+  Player.cpp
+  Role.cpp
+  코드를 생성하고 있습니다...
   PlayingCards.vcxproj -> C:\Users\Wontac Jeong\source\repos\PlayingCards\Debug\PlayingCards.exe
